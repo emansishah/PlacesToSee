@@ -1,0 +1,3 @@
+1. We used the yelp app for design inspiration
+2. We wanted to mainly mimic the different tabs to view a place- a tab with the listed entries and a tab with a map of them
+3. It’s a good design to display places- it not only gives names/info but also general location
